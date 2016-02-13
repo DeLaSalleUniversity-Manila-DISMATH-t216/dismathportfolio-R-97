@@ -20,3 +20,6 @@ dismathportfolio-R-97 created by Classroom for GitHub
 
 #WEEK 6:
 -[gathering data]
+
+#WEEK 7:
+-[404]
